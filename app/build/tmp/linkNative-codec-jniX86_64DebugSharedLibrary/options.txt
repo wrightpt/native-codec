@@ -1,0 +1,22 @@
+-shared
+-Wl,-soname,libnative-codec-jni.so
+-o
+"/home/c/Downloads/android-ndk-master (2)/native-codec/app/build/intermediates/binaries/debug/obj/x86_64/libnative-codec-jni.so"
+"/home/c/Downloads/android-ndk-master (2)/native-codec/app/build/intermediates/objectFiles/native-codec-jniX86_64DebugSharedLibraryMainCpp/6fqke2outi9jiydi51kthrksy/native-codec-jni.o"
+"/home/c/Downloads/android-ndk-master (2)/native-codec/app/build/intermediates/objectFiles/native-codec-jniX86_64DebugSharedLibraryMainCpp/c3vdqbd99i2o4l6lkylta7uhb/looper.o"
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+-Wl,--build-id
+-L/home/c/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64
+-lgnustl_static
+-gcc-toolchain
+/home/c/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64
+-target
+x86_64-none-linux-android
+-landroid
+-llog
+-lOpenMAXAL
+-lmediandk
+--sysroot=/home/c/Android/Sdk/ndk-bundle/platforms/android-21/arch-x86_64

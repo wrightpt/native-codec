@@ -1,0 +1,6 @@
+See file:///home/c/Downloads/android-ndk-master%20(2)/native-codec/app/build/tmp/compileNative-codec-jniArmeabiDebugSharedLibraryNative-codec-jniArmeabiDebugSharedLibraryMainCpp/output.txt for all output for compileNative-codec-jniArmeabiDebugSharedLibraryNative-codec-jniArmeabiDebugSharedLibraryMainCpp.
+compiling looper.cpp successful.
+
+compiling native-codec-jni.cpp successful.
+
+Finished compileNative-codec-jniArmeabiDebugSharedLibraryNative-codec-jniArmeabiDebugSharedLibraryMainCpp, see full log file:///home/c/Downloads/android-ndk-master%20(2)/native-codec/app/build/tmp/compileNative-codec-jniArmeabiDebugSharedLibraryNative-codec-jniArmeabiDebugSharedLibraryMainCpp/output.txt.

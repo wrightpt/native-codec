@@ -1,0 +1,22 @@
+-shared
+-Wl,-soname,libnative-codec-jni.so
+-o
+"/home/c/Downloads/android-ndk-master (2)/native-codec/app/build/intermediates/binaries/debug/obj/armeabi/libnative-codec-jni.so"
+"/home/c/Downloads/android-ndk-master (2)/native-codec/app/build/intermediates/objectFiles/native-codec-jniArmeabiDebugSharedLibraryMainCpp/6fqke2outi9jiydi51kthrksy/native-codec-jni.o"
+"/home/c/Downloads/android-ndk-master (2)/native-codec/app/build/intermediates/objectFiles/native-codec-jniArmeabiDebugSharedLibraryMainCpp/c3vdqbd99i2o4l6lkylta7uhb/looper.o"
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+-Wl,--build-id
+-L/home/c/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi
+-lgnustl_static
+-gcc-toolchain
+/home/c/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64
+-target
+armv5-none-linux-android
+-landroid
+-llog
+-lOpenMAXAL
+-lmediandk
+--sysroot=/home/c/Android/Sdk/ndk-bundle/platforms/android-21/arch-arm

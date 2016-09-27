@@ -1,0 +1,4 @@
+See file:///home/c/Downloads/android-ndk-master%20(2)/native-codec/app/build/tmp/linkNative-codec-jniMipsDebugSharedLibrary/output.txt for all output for linkNative-codec-jniMipsDebugSharedLibrary.
+linking libnative-codec-jni.so successful.
+
+Finished linkNative-codec-jniMipsDebugSharedLibrary, see full log file:///home/c/Downloads/android-ndk-master%20(2)/native-codec/app/build/tmp/linkNative-codec-jniMipsDebugSharedLibrary/output.txt.

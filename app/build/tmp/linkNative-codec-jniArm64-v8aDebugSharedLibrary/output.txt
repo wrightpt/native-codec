@@ -1,0 +1,4 @@
+See file:///home/c/Downloads/android-ndk-master%20(2)/native-codec/app/build/tmp/linkNative-codec-jniArm64-v8aDebugSharedLibrary/output.txt for all output for linkNative-codec-jniArm64-v8aDebugSharedLibrary.
+linking libnative-codec-jni.so successful.
+
+Finished linkNative-codec-jniArm64-v8aDebugSharedLibrary, see full log file:///home/c/Downloads/android-ndk-master%20(2)/native-codec/app/build/tmp/linkNative-codec-jniArm64-v8aDebugSharedLibrary/output.txt.

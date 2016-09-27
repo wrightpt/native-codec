@@ -1,0 +1,22 @@
+-shared
+-Wl,-soname,libnative-codec-jni.so
+-o
+"/home/c/Downloads/android-ndk-master (2)/native-codec/app/build/intermediates/binaries/debug/obj/mips/libnative-codec-jni.so"
+"/home/c/Downloads/android-ndk-master (2)/native-codec/app/build/intermediates/objectFiles/native-codec-jniMipsDebugSharedLibraryMainCpp/6fqke2outi9jiydi51kthrksy/native-codec-jni.o"
+"/home/c/Downloads/android-ndk-master (2)/native-codec/app/build/intermediates/objectFiles/native-codec-jniMipsDebugSharedLibraryMainCpp/c3vdqbd99i2o4l6lkylta7uhb/looper.o"
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+-Wl,--build-id
+-L/home/c/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips
+-lgnustl_static
+-gcc-toolchain
+/home/c/Android/Sdk/ndk-bundle/toolchains/mipsel-linux-android-4.9/prebuilt/linux-x86_64
+-target
+mipsel-none-linux-android
+-landroid
+-llog
+-lOpenMAXAL
+-lmediandk
+--sysroot=/home/c/Android/Sdk/ndk-bundle/platforms/android-21/arch-mips

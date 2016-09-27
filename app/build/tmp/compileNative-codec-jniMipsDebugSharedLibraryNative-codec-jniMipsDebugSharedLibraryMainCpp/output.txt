@@ -1,0 +1,8 @@
+See file:///home/c/Downloads/android-ndk-master%20(2)/native-codec/app/build/tmp/compileNative-codec-jniMipsDebugSharedLibraryNative-codec-jniMipsDebugSharedLibraryMainCpp/output.txt for all output for compileNative-codec-jniMipsDebugSharedLibraryNative-codec-jniMipsDebugSharedLibraryMainCpp.
+compiling looper.cpp successful.
+clang++: warning: optimization flag '-finline-functions' is not supported
+
+compiling native-codec-jni.cpp successful.
+clang++: warning: optimization flag '-finline-functions' is not supported
+
+Finished compileNative-codec-jniMipsDebugSharedLibraryNative-codec-jniMipsDebugSharedLibraryMainCpp, see full log file:///home/c/Downloads/android-ndk-master%20(2)/native-codec/app/build/tmp/compileNative-codec-jniMipsDebugSharedLibraryNative-codec-jniMipsDebugSharedLibraryMainCpp/output.txt.
